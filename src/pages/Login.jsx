@@ -115,11 +115,7 @@ export default function Login() {
           </Link>
         </div>
 
-        <div className="alert alert-info mt-3">
-          <small>
-            <strong>Para acceder como admin:</strong> Registra un usuario con email "admvinagrefit@gmail.com" y el sistema le asignará automáticamente el rol de administrador.
-          </small>
-        </div>
+        
       </form>
     </div>
   )

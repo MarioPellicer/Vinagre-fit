@@ -52,9 +52,6 @@ export default function Gyms() {
           <p style={{ fontSize: '1.25rem', color: '#4b5563', marginBottom: '0.5rem' }}>
             Explora nuestras instalaciones en Zaragoza
           </p>
-          <p style={{ fontSize: '0.875rem', color: '#6b7280' }}>
-            Busca por nombre o dirección. Los datos se cargan desde <code style={{ backgroundColor: '#e5e7eb', padding: '0.25rem 0.5rem', borderRadius: '0.25rem' }}>Supabase</code>.
-          </p>
         </div>
 
         {/* Barra de búsqueda */}
